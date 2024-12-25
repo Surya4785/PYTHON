@@ -1,5 +1,6 @@
-marks = int(input("enter student marks :"))
+# Grading System
 
+marks = int(input("enter student marks :"))
 if(marks >= 90):
     grade = "A"
 elif(marks >= 80 and marks < 90):
