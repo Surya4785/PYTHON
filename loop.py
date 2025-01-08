@@ -4,6 +4,7 @@ i=0
 while(i<len(l)):
     print(l[i])
     i = i+1
+
 # for loop
 k=[1,"mohit","surya","anikesh",43]
 
